@@ -2,13 +2,13 @@
 
 Project from COMPX518 Cyber Security where we were to create a Java program which generates and stores passwords on a user’s machine and allows them to access them through storing in and reading from an encrypted file.
 
-To compile the program use:
+## Setup Instructions
 
-javac PasswordManager.java PasswordGenerator.java PasswordRetriever.java PasswordStorage.java
+1. Compile: "javac PasswordManager.java PasswordGenerator.java PasswordRetriever.java PasswordStorage.java"
 
-To run the program use:
+2. Run the program: "java PasswordManager"
 
-java PasswordManager
+3. To use the program:
 
 User command options will be displayed as such:
 
